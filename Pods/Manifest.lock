@@ -1,0 +1,26 @@
+PODS:
+  - AnimatableReload (0.2.0)
+  - Realm (4.3.0):
+    - Realm/Headers (= 4.3.0)
+  - Realm/Headers (4.3.0)
+  - RealmSwift (4.3.0):
+    - Realm (= 4.3.0)
+
+DEPENDENCIES:
+  - AnimatableReload
+  - RealmSwift
+
+SPEC REPOS:
+  trunk:
+    - AnimatableReload
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  AnimatableReload: 9576d3019bfb103f76b5f37fa6f8915bd8307527
+  Realm: 9357c3589555793e1860a7104a7412bca4a48d99
+  RealmSwift: 402f1e379a8ef82c635313037b043f0f06de880c
+
+PODFILE CHECKSUM: 9548a26e571f80ec768d5107cf8dc5508f470a76
+
+COCOAPODS: 1.8.4
